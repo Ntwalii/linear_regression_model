@@ -66,9 +66,7 @@ class _HomePageState extends State<HomePage> {
                 ),
                 const SizedBox(height: 16),
                 Text(
-                  result != 0
-                      ? '${result.toStringAsFixed(2)} kWh'
-                      : "Loading ...",
+                  '${result.toStringAsFixed(2)} kWh',
                   style: const TextStyle(
                     fontSize: 28,
                     fontWeight: FontWeight.bold,
