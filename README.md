@@ -1,5 +1,10 @@
 # Solar power prediction app
 
+# Mission: 
+Revolutionalize and optimize Rwandan infrastructure by leveraging technology.
+
+Source of data: kaggle.com.
+
 ## Link to the hosted backend : https://linear-regression-model-qw86.onrender.com
 ## Link to the demo video : https://www.youtube.com/watch?v=Fl1rr_Gva7U
 
@@ -32,3 +37,5 @@ If you are using an Android emulator or a physical Android device, run:
 flutter run
 ```
 This will build the app and deploy it to the connected Android device or emulator.
+
+
